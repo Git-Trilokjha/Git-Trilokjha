@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Git-Trilokjha
-- 👀 I’m interested in DATA SCIENCE AND PROGRAMMING
+- 👀 I’m interested in Data science and programming
 - 🌱 I’m currently learning Data science from iit madras and Bca.
 - 📫 To reach out me just email at - trilokjha78590@gmail.com
 
